@@ -1,2 +1,3 @@
 <?php 
- echo "helloWorld你好世界";
+ echo "helloWorld
+";
